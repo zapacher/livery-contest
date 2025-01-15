@@ -6,11 +6,9 @@
 ---
 
 # 🚗 Rules
-1. **Only clean car designs**:
-    - No missile-style liveries. (Do you really want us to inspect how good rust or scratches look?)
-2. **150+ layers required**:
+1. **150+ layers required**:
     - Ensure your design meets this standard.
-3. **Streaming required**:
+2. **Streaming required**:
     - Be ready to stream to verify layer details and showcase your work.
 
 ---
