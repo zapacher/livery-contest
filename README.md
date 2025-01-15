@@ -245,3 +245,7 @@ Mistake classifications are represented by color-coded annotations:
 
 Copyright 2025 Toomas Park. All rights reserved.
 Screenshots in this repository are free to use and are not subject to any specific licensing or restrictions.
+
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
