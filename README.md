@@ -101,6 +101,7 @@ Mistake classifications are represented by color-coded annotations:
 ### Explanation:
    - You will never want to put sticker on that part, believe me.
 ---
+
 ## Example 3 (joint/corner):
 ### Pass:
 ![decal_on_edge_1_true.jpg](imgs/1/decal_on_edge_1_true.jpg)
