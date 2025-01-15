@@ -127,7 +127,7 @@ Mistake classifications are represented by color-coded annotations:
 
 ---
 
-## Example 5.1 (corner/body kit):
+## Example 5 (corner/body kit):
 ### View:
 ![decal_on_edge_3_look.jpg](imgs/3/decal_on_edge_3_look.jpg)
 ### Inspection:
@@ -141,7 +141,7 @@ Mistake classifications are represented by color-coded annotations:
 
 ---
 
-## Example 5.2 (corner/body kit):
+## Example 6 (corner/body kit):
 ### View:
 ![decal_on_edge_3_look2.jpg](imgs/3/decal_on_edge_3_look2.jpg)
 ### Inspection:
@@ -153,7 +153,7 @@ Mistake classifications are represented by color-coded annotations:
 
 ---
 
-## Example 6 (joint/corner/positioning):
+## Example 7 (joint/corner/positioning):
    ### Inspection:
 ![edges_1_false.jpg](imgs/4/edges_1_false.jpg)
 ![edges_1_false_copy.jpg](imgs/4/edges_1_false_copy.jpg)
@@ -166,7 +166,7 @@ Mistake classifications are represented by color-coded annotations:
 
 ---
 
-## Example 7 (skirt):
+## Example 8 (skirt):
 ### View:
 ![sticker_on_skirt_look.jpg](imgs/6/sticker_on_skirt_look.jpg)
 ### Inspection:
@@ -178,7 +178,7 @@ Mistake classifications are represented by color-coded annotations:
 
 ---
 
-## Example 8 (handle/body parts):
+## Example 9 (handle/body parts):
 ### View:
 ![sticker_on_handle_look.jpg](imgs/7/sticker_on_handle_look.jpg)
 ### Inspection:
@@ -187,7 +187,7 @@ Mistake classifications are represented by color-coded annotations:
 
 ---
 
-## Example 9 (spoiler/etc):
+## Example 10 (spoiler/etc):
 ### Inspection:
 ![under_object_false.jpg](imgs/8/under_object_false.jpg)
 ![under_object_false_copy.jpg](imgs/8/under_object_false_copy.jpg)
@@ -200,7 +200,7 @@ Mistake classifications are represented by color-coded annotations:
 
 ---
 
-## Example 10 (spoiler/etc):
+## Example 11 (spoiler/etc):
 ### Inspection:
 ![big_sticker_fail.jpg](imgs/9/big_sticker_fail.jpg)
 ![big_sticker_fail_copy.jpg](imgs/9/big_sticker_fail_copy.jpg)
@@ -216,7 +216,7 @@ Mistake classifications are represented by color-coded annotations:
 
 ---
 
-## Example 11 (stealth):
+## Example 12 (stealth):
 ### Inspection:
 ![sticker_stealth.jpg](imgs/10/sticker_stealth.jpg)
 ![sticker_stealth_copy.jpg](imgs/10/sticker_stealth_copy.jpg)
