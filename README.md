@@ -44,7 +44,7 @@ Inspectors will evaluate:
 ### Deductions
 - **Each car part** can only lose **1 point maximum** per section, regardless of the number of mistakes.
 - Car parts include:
-    - FL Door, FR Door, RL Door, RR Door, Front Bumper, Hood, FL Fender, FR Fender, Left Skirt, Right Skirt, RL Fender, RR Fender, Windscreen, Windows (FL, FR, RL, RR), Rear Windscreen, Additional Windows/Covers, Trunk, Rear Bumper, Rear Car, Roof, Body.
+    - Doors (FL, FR, RL, RR), Bumpers (Front, Rear), Hood, Fenders (FL, FR, RL, RR), Skirts (Left, Right), Windscreen (Front, Rear), Windows (FL, FR, RL, RR, AL, AR), Trunk, Body (Roof, Front, Rear, Other).
 - **Minimum possible score**: **-26 points**.
 
 ### Bonuses
@@ -78,3 +78,22 @@ If a participant makes 3 mistakes on a bumper, they only lose **1 point** for th
 
 ### 🎨 Showcase Your Skills!
 Create liveries that stand out and follow the rules to ensure your design gets the recognition it deserves. Good luck, and may the best designer win! 🚗💨
+
+
+## Examples
+**Red** - mistake (-1 point)
+**Green** - pass
+**Orange** - dimension/size mistake (-1 point)
+**Purple** - questionable
+
+<p align="center">
+  <img 
+    src="imgs/1/decal_on_edge_1_false.jpg" 
+    alt="Default Example" 
+    onmouseover="this.src='imgs/1/decal_on_edge_1_false_copy.jpg';" 
+    onmouseout="this.src='imgs/1/decal_on_edge_1_false.jpg';" 
+    width="1600">
+</p>
+
+
+
