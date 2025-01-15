@@ -1,7 +1,3 @@
-<head>
-    <link rel="stylesheet" href="style.css">
-</head>
-
 <div align="center" style="font-size: 50px;">
   <b>滑 SURAIDO</b> <br>
    Livery Contest
