@@ -1,3 +1,10 @@
+<div align="center" style="font-size: 50px;">
+  <b>滑 SURAIDO</b> <br>
+   Livery Contest
+</div>
+
+---
+
 # 🚗 Rules
 1. **Only clean car designs**:
     - No missile-style liveries. (Do you really want us to inspect how good rust or scratches look?)
@@ -206,3 +213,6 @@ Mistake classifications are represented by color-coded annotations:
 ![example_16.jpg](imgs/example/example_16.jpg)
 ![example_17.jpg](imgs/example/example_17.jpg)
 ![example_18.jpg](imgs/example/example_18.jpg)
+
+Copyright 2025 Toomas Park. All rights reserved.
+Screenshots in this project are free to use and are not subject to any specific licensing or restrictions.
