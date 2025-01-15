@@ -119,7 +119,7 @@ Mistake classifications are represented by color-coded annotations:
 ![decal_on_edge_2_false.jpg](imgs/2/decal_on_edge_2_false.jpg)
 ![decal_on_edge_2_false_copy.jpg](imgs/2/decal_on_edge_2_false_copy.jpg)
 ### Explanation:
-- Tiny/small parts, rly need them?
+- Tiny/small parts, rly need them? 
 
 ### Pass:
 ![decal_on_edge_2_true.jpg](imgs/2/decal_on_edge_2_true.jpg)
@@ -128,12 +128,12 @@ Mistake classifications are represented by color-coded annotations:
 ---
 
 ## Example 5.1 (corner/body kit):
-   ### View:
+### View:
 ![decal_on_edge_3_look.jpg](imgs/3/decal_on_edge_3_look.jpg)
-   ### Inspection:
+### Inspection:
 ![decal_on_edge_3_false.jpg](imgs/3/decal_on_edge_3_false.jpg)
 ![decal_on_edge_3_false_copy.jpg](imgs/3/decal_on_edge_3_false_copy.jpg)
-   ### Pass:
+### Pass:
 ![decal_on_edge_3_fixed1.jpg](imgs/3/decal_on_edge_3_fixed1.jpg)
 ![decal_on_edge_3_fixed1_copy.jpg](imgs/3/decal_on_edge_3_fixed1_copy.jpg)
 ![decal_on_edge_3_fixed2.jpg](imgs/3/decal_on_edge_3_fixed2.jpg)
@@ -142,12 +142,12 @@ Mistake classifications are represented by color-coded annotations:
 ---
 
 ## Example 5.2 (corner/body kit):
-   ### View:
+### View:
 ![decal_on_edge_3_look2.jpg](imgs/3/decal_on_edge_3_look2.jpg)
-   ### Inspection:
+### Inspection:
 ![decal_on_edge_3_false2.jpg](imgs/3/decal_on_edge_3_false2.jpg)
 ![decal_on_edge_3_false2_copy.jpg](imgs/3/decal_on_edge_3_false2_copy.jpg)
-   ### Pass:
+### Pass:
 ![decal_on_edge_3_fixed3.jpg](imgs/3/decal_on_edge_3_fixed3.jpg)
 ![decal_on_edge_3_fixed3_copy.jpg](imgs/3/decal_on_edge_3_fixed3_copy.jpg)
 
@@ -192,7 +192,7 @@ Mistake classifications are represented by color-coded annotations:
 ![under_object_false.jpg](imgs/8/under_object_false.jpg)
 ![under_object_false_copy.jpg](imgs/8/under_object_false_copy.jpg)
 ### Explanation:
-   - Do you really need that part sticking out??? I bet NO
+- Do you really need that part sticking out??? I bet NO
 
 ### Pass
 ![under_object_true.jpg](imgs/8/under_object_true.jpg)
