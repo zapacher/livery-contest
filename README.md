@@ -83,7 +83,7 @@ Mistake classifications are represented by color-coded annotations:
 - **Orange**: Dimension/Size Mistake (-1 point)
 - **Purple**: May be questionable, asking participant
 
-## Example 1 (Removable rooftop):
+## Example 1 (removable rooftop):
 ![removabel_rooftop_1.jpg](imgs/5/removabel_rooftop_1.jpg)
 ![removabel_rooftop_2.jpg](imgs/5/removabel_rooftop_2.jpg)
 ---
@@ -165,7 +165,7 @@ Mistake classifications are represented by color-coded annotations:
 ![under_object_false.jpg](imgs/8/under_object_false.jpg)
 ![under_object_false_copy.jpg](imgs/8/under_object_false_copy.jpg)
 ### Explanation:
-   - do you really need that part sticking out??? I bet NO
+   - Do you really need that part sticking out??? I bet NO
 ### Pass
 ![under_object_true.jpg](imgs/8/under_object_true.jpg)
 ![under_object_true_copy.jpg](imgs/8/under_object_true_copy.jpg)
