@@ -152,7 +152,7 @@ Mistake classifications are represented by color-coded annotations:
 ---
 
 ## Example 7 (joint/corner/positioning):
-   ### Inspection:
+### Inspection:
 ![edges_1_false.jpg](imgs/4/edges_1_false.jpg)
 ![edges_1_false_copy.jpg](imgs/4/edges_1_false_copy.jpg)
 ### Explanation:
