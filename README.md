@@ -120,6 +120,7 @@ Mistake classifications are represented by color-coded annotations:
 ![decal_on_edge_2_false_copy.jpg](imgs/2/decal_on_edge_2_false_copy.jpg)
 ### Explanation:
 - Tiny/small parts, rly need them?
+
 ### Pass:
 ![decal_on_edge_2_true.jpg](imgs/2/decal_on_edge_2_true.jpg)
 ![decal_on_edge_2_true_copy.jpg](imgs/2/decal_on_edge_2_true_copy.jpg)
@@ -158,6 +159,7 @@ Mistake classifications are represented by color-coded annotations:
 ![edges_1_false_copy.jpg](imgs/4/edges_1_false_copy.jpg)
 ### Explanation:
 - Over the joint, partially in the deep part, poor positioning (right side is lower than left)
+
 ### Pass:
 ![edges_1_true.jpg](imgs/4/edges_1_true.jpg)
 ![edges_1_true_copy.jpg](imgs/4/edges_1_true_copy.jpg)
@@ -191,6 +193,7 @@ Mistake classifications are represented by color-coded annotations:
 ![under_object_false_copy.jpg](imgs/8/under_object_false_copy.jpg)
 ### Explanation:
    - Do you really need that part sticking out??? I bet NO
+
 ### Pass
 ![under_object_true.jpg](imgs/8/under_object_true.jpg)
 ![under_object_true_copy.jpg](imgs/8/under_object_true_copy.jpg)
