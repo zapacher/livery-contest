@@ -93,13 +93,16 @@ Mistake classifications are represented by color-coded annotations:
 ## Example 1 (removable rooftop):
 ![removabel_rooftop_1.jpg](imgs/5/removabel_rooftop_1.jpg)
 ![removabel_rooftop_2.jpg](imgs/5/removabel_rooftop_2.jpg)
+
 ---
+
 ## Example 2 (joint/corner):
 ### Inspection:
 ![decal_on_edge_1_false.jpg](imgs/1/decal_on_edge_1_false.jpg)
 ![decal_on_edge_1_false_copy.jpg](imgs/1/decal_on_edge_1_false_copy.jpg)
 ### Explanation:
    - You will never want to put sticker on that part, believe me.
+
 ---
 
 ## Example 3 (joint/corner):
@@ -108,7 +111,9 @@ Mistake classifications are represented by color-coded annotations:
 ![decal_on_edge_1_true_copy.jpg](imgs/1/decal_on_edge_1_true_copy.jpg)
 ### Explanation:
 - Fits near joint, not full sticker is in the deep part
+
 ---
+
 ## Example 4 (joint/corner/handle):
 ### Inspection:
 ![decal_on_edge_2_false.jpg](imgs/2/decal_on_edge_2_false.jpg)
@@ -118,7 +123,9 @@ Mistake classifications are represented by color-coded annotations:
 ### Pass:
 ![decal_on_edge_2_true.jpg](imgs/2/decal_on_edge_2_true.jpg)
 ![decal_on_edge_2_true_copy.jpg](imgs/2/decal_on_edge_2_true_copy.jpg)
+
 ---
+
 ## Example 5.1 (corner/body kit):
    ### View:
 ![decal_on_edge_3_look.jpg](imgs/3/decal_on_edge_3_look.jpg)
@@ -130,7 +137,9 @@ Mistake classifications are represented by color-coded annotations:
 ![decal_on_edge_3_fixed1_copy.jpg](imgs/3/decal_on_edge_3_fixed1_copy.jpg)
 ![decal_on_edge_3_fixed2.jpg](imgs/3/decal_on_edge_3_fixed2.jpg)
 ![decal_on_edge_3_fixed2_copy.jpg](imgs/3/decal_on_edge_3_fixed2_copy.jpg)
+
 ---
+
 ## Example 5.2 (corner/body kit):
    ### View:
 ![decal_on_edge_3_look2.jpg](imgs/3/decal_on_edge_3_look2.jpg)
@@ -140,7 +149,9 @@ Mistake classifications are represented by color-coded annotations:
    ### Pass:
 ![decal_on_edge_3_fixed3.jpg](imgs/3/decal_on_edge_3_fixed3.jpg)
 ![decal_on_edge_3_fixed3_copy.jpg](imgs/3/decal_on_edge_3_fixed3_copy.jpg)
+
 ---
+
 ## Example 6 (joint/corner/positioning):
    ### Inspection:
 ![edges_1_false.jpg](imgs/4/edges_1_false.jpg)
@@ -150,7 +161,9 @@ Mistake classifications are represented by color-coded annotations:
 ### Pass:
 ![edges_1_true.jpg](imgs/4/edges_1_true.jpg)
 ![edges_1_true_copy.jpg](imgs/4/edges_1_true_copy.jpg)
+
 ---
+
 ## Example 7 (skirt):
 ### View:
 ![sticker_on_skirt_look.jpg](imgs/6/sticker_on_skirt_look.jpg)
@@ -160,14 +173,18 @@ Mistake classifications are represented by color-coded annotations:
 ### Pass [dark screenshot]:
 ![sticker_on_skirt_true.jpg](imgs/6/sticker_on_skirt_true.jpg)
 ![sticker_on_skirt_true_copy.jpg](imgs/6/sticker_on_skirt_true_copy.jpg)
+
 ---
+
 ## Example 8 (handle/body parts):
 ### View:
 ![sticker_on_handle_look.jpg](imgs/7/sticker_on_handle_look.jpg)
 ### Inspection:
 ![sticker_on_handle_false.jpg](imgs/7/sticker_on_handle_false.jpg)
 ![sticker_on_handle_false_copy.jpg](imgs/7/sticker_on_handle_false_copy.jpg)
+
 ---
+
 ## Example 9 (spoiler/etc):
 ### Inspection:
 ![under_object_false.jpg](imgs/8/under_object_false.jpg)
@@ -177,7 +194,9 @@ Mistake classifications are represented by color-coded annotations:
 ### Pass
 ![under_object_true.jpg](imgs/8/under_object_true.jpg)
 ![under_object_true_copy.jpg](imgs/8/under_object_true_copy.jpg)
+
 ---
+
 ## Example 10 (spoiler/etc):
 ### Inspection:
 ![big_sticker_fail.jpg](imgs/9/big_sticker_fail.jpg)
@@ -191,12 +210,16 @@ Mistake classifications are represented by color-coded annotations:
 ![big_sticker_true_copy.jpg](imgs/9/big_sticker_true_copy.jpg)
 ![big_sticker_true2.jpg](imgs/9/big_sticker_true2.jpg)
 ![big_sticker_true2_copy.jpg](imgs/9/big_sticker_true2_copy.jpg)
+
 ---
+
 ## Example 11 (stealth):
 ### Inspection:
 ![sticker_stealth.jpg](imgs/10/sticker_stealth.jpg)
 ![sticker_stealth_copy.jpg](imgs/10/sticker_stealth_copy.jpg)
+
 ---
+
 ## Random Examples:
 ![example_1.jpg](imgs/example/example_1.jpg)
 ![example_2.jpg](imgs/example/example_2.jpg)
