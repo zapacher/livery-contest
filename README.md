@@ -214,5 +214,7 @@ Mistake classifications are represented by color-coded annotations:
 ![example_17.jpg](imgs/example/example_17.jpg)
 ![example_18.jpg](imgs/example/example_18.jpg)
 
+---
+
 Copyright 2025 Toomas Park. All rights reserved.
-Screenshots in this project are free to use and are not subject to any specific licensing or restrictions.
+Screenshots in this repository are free to use and are not subject to any specific licensing or restrictions.
