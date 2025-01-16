@@ -10,6 +10,8 @@
     - Ensure your design meets this standard.
 2. **Streaming required**:
     - Be ready to stream to verify layer details and showcase your work.
+3. **Only ingame stickers**:
+    - No modded stickers, only legit default stickers that are in the game.
 
 ---
 
